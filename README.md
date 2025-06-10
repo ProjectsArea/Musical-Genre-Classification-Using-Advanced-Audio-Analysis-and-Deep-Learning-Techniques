@@ -1,3 +1,21 @@
 # Musical-Genre-Classification-Using-Advanced-Audio-Analysis-and-Deep-Learning-Techniques
 
-[Musical_Genre_Classification_Using_Advanced_Audio_Analysis_and_Deep_Learning_Techniques.pdf10605044 (1).pdf](https://github.com/user-attachments/files/20671765/Musical_Genre_Classification_Using_Advanced_Audio_Analysis_and_Deep_Learning_Techniques.pdf10605044.1.pdf)
+
+💼 Final Year Project Guidance by Datapro computers pvt ltd
+Looking for expert guidance on your final year project? We’re here to help!
+
+At Datapro computers, we specialize in assisting engineering and computer science students with high-quality, real-world projects tailored to academic requirements. Our services include:
+
+✅ Complete Project Support
+✅ Customized Solutions & Source Code
+✅ Documentation Assistance
+✅ Interview & Viva Prep
+✅ Affordable Packages
+✅ Affordable prices
+
+
+📬 Get in touch with us:
+📧 Email: info@datapro.in
+🌐 Website: https://dcs.datapro.in/
+📱 WhatsApp: 9573388833
+
