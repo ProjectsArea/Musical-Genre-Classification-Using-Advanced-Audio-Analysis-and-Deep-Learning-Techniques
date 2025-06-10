@@ -1,1 +1,3 @@
 # Musical-Genre-Classification-Using-Advanced-Audio-Analysis-and-Deep-Learning-Techniques
+
+[Musical_Genre_Classification_Using_Advanced_Audio_Analysis_and_Deep_Learning_Techniques.pdf10605044 (1).pdf](https://github.com/user-attachments/files/20671765/Musical_Genre_Classification_Using_Advanced_Audio_Analysis_and_Deep_Learning_Techniques.pdf10605044.1.pdf)
