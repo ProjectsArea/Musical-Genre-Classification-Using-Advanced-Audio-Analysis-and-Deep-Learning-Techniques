@@ -1,6 +1,12 @@
 # Musical-Genre-Classification-Using-Advanced-Audio-Analysis-and-Deep-Learning-Techniques
 
+
 #
+
+
+https://github.com/user-attachments/assets/17cbbdd3-f6e8-4f73-8777-1b6a3c08ca74
+
+
 
 ## 💼 Final Year Project Guidance by Datapro computers pvt ltd
 #
