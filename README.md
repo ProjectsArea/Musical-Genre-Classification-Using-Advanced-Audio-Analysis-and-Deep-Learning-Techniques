@@ -16,7 +16,7 @@
 
 
 ## 📬 Get in touch with us:
-## 📧 Email: info@datapro.in
-## 🌐 Website: https://dcs.datapro.in/
-## 📱 WhatsApp: 9573388833
+### 📧 Email: info@datapro.in
+### 🌐 Website: https://dcs.datapro.in/
+### 📱 WhatsApp: 9573388833
 
